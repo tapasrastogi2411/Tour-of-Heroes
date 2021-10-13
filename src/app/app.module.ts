@@ -11,7 +11,7 @@ import { HeroDetailComponent } from './hero-detail/hero-detail.component';
   declarations: [
     AppComponent,
     HeroesComponent,
-    HeroDetailComponent // Added this child component
+    HeroDetailComponent
   ],
   imports: [
     BrowserModule,
